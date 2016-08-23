@@ -19,7 +19,7 @@ public class ScreenTest {
         String baseURL = "https://selenium-screenshot-watcher.herokuapp.com/";
         WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
-        driver.get("http://the-internet.herokuapp.com/abtest");
+        driver.get("http://the-internet.herokuapp.com/drag_and_drop");
 
         String testName = "heroku sample test - 1";
         String testBrowser = "firefox";
