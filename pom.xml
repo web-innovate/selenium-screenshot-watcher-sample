@@ -18,7 +18,7 @@
     <dependency>
       <groupId>com.github.bogdanlivadariu</groupId>
       <artifactId>selenium-screenshot-watcher</artifactId>
-      <version>master</version>
+      <version>master-SNAPSHOT</version>
     </dependency>
   </dependencies>
   <repositories>
